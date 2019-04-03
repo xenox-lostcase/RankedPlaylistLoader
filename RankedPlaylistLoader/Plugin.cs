@@ -9,7 +9,7 @@ namespace RankedPlaylistLoader
     public class Plugin : IPlugin
     {
         public string Name => "Ranked Playlist Loader";
-        public string Version => "0.0.1";
+        public string Version => "0.0.2";
 
         private Downloader _downloader = null;
 
